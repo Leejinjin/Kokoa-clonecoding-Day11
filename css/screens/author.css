@@ -1,0 +1,35 @@
+.author-header {
+  font-size: 20px;
+  font-weight: 700;
+  margin: 15px 0px;
+}
+
+.author__columns {
+  margin: 40px 30px;
+}
+
+.author__img img {
+  height: 200px;
+  width: 170px;
+  border-radius: 7px;
+}
+
+.author__info {
+  display: flex;
+}
+
+.author__detail {
+  margin-left: 20px;
+}
+
+.author__name {
+  font-size: 20px;
+  margin-bottom: 20px;
+  font-weight: 500;
+}
+
+.author__view {
+  font-size: 15px;
+  font-weight: 200;
+  color: rgba(156, 160, 163, 0.699);
+}

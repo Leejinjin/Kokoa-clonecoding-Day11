@@ -1,0 +1,37 @@
+.recom-header {
+  font-size: 20px;
+  font-weight: 700;
+  margin: 15px 0px;
+}
+
+.recom__columns {
+  margin: 40px 30px;
+}
+.recom-books {
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+.recom-books__columns {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.recom-books__columns img {
+  height: 150px;
+  width: 100px;
+  border-radius: 7px;
+}
+
+.recom-books__columns:nth-child(2) {
+  padding-left: 20px;
+}
+.recom-books__columns:nth-child(3) {
+  padding-left: 20px;
+}
+.recom-books__columns:last-child {
+  padding-left: 20px;
+}

@@ -1,0 +1,11 @@
+.menu {
+  background-color: mediumaquamarine;
+  padding: 40px 20px 60px 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu__column:nth-child(2) {
+  font-size: 18px;
+  font-weight: 500;
+}
